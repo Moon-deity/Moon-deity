@@ -1,6 +1,6 @@
-   👋 Hi, I’m @Hyperionthegreat                     
-    👀 I’m interested in Python, JavaScript and C++, 
-    🌱 I’m currently learning JavaScript,             
+   👋 Hi, I’m @Moon-deity                    
+    👀 I’m interested in C++, JavaScript and Python, 
+    🌱 I’m currently learning C++,             
     💞️ I’m looking to collaborate on JavaScript,      
     📫 You can't reach me as I am a busy person...    
    
