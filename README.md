@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./Github.jpg)
 ### Table of content
 - [About Me](#About)
 
